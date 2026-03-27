@@ -28,9 +28,9 @@
 docker/artifacts/
 docker/.cache/
 *.tmp
-g1_amp/
-g1-pmy-amp.md
-2026-03-27_11-23-59/
+# Logs
+logs/
+
 # Isaac-Sim packman
 _isaac_sim*
 _repo
